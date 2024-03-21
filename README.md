@@ -27,3 +27,5 @@ To use the Less Time Railway project, follow these steps:
 3. Run the executable to start the program.
 4. Follow the on-screen instructions to interact with the application.
 
+###DEMO :
+![Screenshot 2024-03-21 232208](https://github.com/shantanu2002git/Less-Time-Railway/assets/135010107/fe1a1f4c-994a-428c-9e9e-30fb22c1d608)
